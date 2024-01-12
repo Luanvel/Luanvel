@@ -1,16 +1,79 @@
-### Hi there 👋
+<h1 align="center">Hi!! 👋  I'm Verónica Ruiz ✨ </h1>
 
-<!--
-**Luanvel/Luanvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.itch.zone/aW1nLzEzNTE5NjE4LmdpZg==/original/5cQ0oZ.gif">
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://linkedin.com/in/veronicaruizab" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="veronica's linkedin"/></a>
+<a href = "mailto:veronica.ruizab@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="veronica's email"  /></a>
+</p>
+  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About me! 🐲</h2>
+
+<p align="left">
+🌳Junior FrontEnd Developer and UI/UX Designer
+</p>
+
+<p align="left">
+🌱 Currently studying DAW (Web Application Development).
+</p>
+
+<p align="left">
+💻 Over 1 year of experience as a UI/UX Designer.
+</p>
+
+<p align="left">
+🎨 5+ years of 2D art experience.
+</p>
+
+<p align="left">
+🎓 Google UX Design Certificate holder.
+</p>
+
+<p align="left">
+🎮 Passionate about video games, art, and programming.
+</p>
+
+<p align="left">
+🕹️ GameDev enthusiast.
+</p>
+
+<p align="left">
+🚀 Fast learner, creative, empathetic, and a team player.
+</p>
+
+<p align="left">
+🌈 Fighting for my dreams!!!!
+</p>
+
+<p align="left">
+📫 Contact: **veronica.ruizab@gmail.com**
+</p>
+  
+<br>
+
+<h2 >Hard Skills👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,postman,vscode,mysql,figma,ai,ps&perline=9" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+
+<h2>GitHub :octocat:</h2>
+<!--- stats -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luanvel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
