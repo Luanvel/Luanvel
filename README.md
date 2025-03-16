@@ -16,15 +16,15 @@
 </p>
 
 <p align="left">
-🌱 Currently studying DAW (Web Application Development).
+🌱 DAW (Web Application Development).
 </p>
 
 <p align="left">
-💻 Over 1 year of experience as a UI/UX Designer.
+💻 Over 1 year of experience as a Developer.
 </p>
 
 <p align="left">
-🎨 5+ years of 2D art experience.
+🎨 Over 1 year of experience as a UI/UX Designer.
 </p>
 
 <p align="left">
