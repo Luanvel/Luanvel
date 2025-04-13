@@ -32,7 +32,7 @@
 </p>
 
 <p align="left">
-🎮 Passionate about video games, art, and programming.
+🎮 Passionate about programming, video games and art.
 </p>
 
 <p align="left">
