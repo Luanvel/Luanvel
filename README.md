@@ -47,10 +47,6 @@
 🌈 Fighting for my dreams!!!!
 </p>
 
-<p align="left">
-📫 Contact: **veronica.ruizab@gmail.com**
-</p>
-  
 <br>
 
 <h2 >Hard Skills👨🏻‍💻</h2>
