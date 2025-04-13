@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-💻 Over 1 year of experience as a Developer.
+💻 Over 2 years of experience as a Developer.
 </p>
 
 <p align="left">
