@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-🎨 Over 1 year of experience as a UI/UX Designer.
+🎨 Over 2 year of experience as a UI/UX Designer.
 </p>
 
 <p align="left">
