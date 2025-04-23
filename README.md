@@ -12,7 +12,7 @@
 <h2>About me! 🐲</h2>
 
 <p align="left">
-🌳Junior FrontEnd Developer and UI/UX Designer.
+🌳 Software Developer and UI/UX Designer.
 </p>
 
 <p align="left">
